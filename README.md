@@ -2,7 +2,7 @@
 
 This repo contains code that was used in [https://arxiv.org/abs/1903.06191](https://arxiv.org/abs/1903.06191), for generating `.fr` files that can be used with Feynules, for feeding UFO model files and appropriate commands to `MadGraph_aMC@NLO` to simulate collider events, and analyse these collider events with kinematic variable cuts.
 
-The FeynRules-MadGraph_aMC@NLO-Pythia-Delphes system of packages is used across the particle physics theory community for simulation and analysis of collider data, especially with Beyond Standard Model theories. The Clockwork neutrino model contains interacting sequences of sterile neutrinos which serve to explain the smallness of SM neutrinos. Creating model files and loading them to MadGraph is laborious in this case, because the neutrinos can number in the dozens. This repo contains scripts to make the process easy. The scripts use Python and bash, while FeynRules is a Mathematica package and requires Mathematica
+The FeynRules-MadGraph_aMC@NLO-Pythia-Delphes system of packages is used across the particle physics theory community for simulation and analysis of collider data, especially with Beyond Standard Model theories. The Clockwork neutrino model contains interacting sequences of sterile neutrinos which serve to explain the smallness of SM neutrinos. Creating model files and loading them to MadGraph is laborious in this case, because the neutrinos can number in the dozens. This repo contains scripts to make the process easy. The scripts use Python and bash, while FeynRules is a Mathematica package and requires Mathematica.
 
 ### FeynRules-Scripts
 
